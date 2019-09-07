@@ -1,4 +1,4 @@
-[Скачать через Mega.nz](https://mega.nz/#!KqIDCIzY!jEMIo4_B2MKxb4G-zIsqW-uL6JPd8CV0_OaZChBXr5g)
+[Скачать DnevnikRuBot через Mega.nz](https://mega.nz/#!KqIDCIzY!jEMIo4_B2MKxb4G-zIsqW-uL6JPd8CV0_OaZChBXr5g)
 
 DnevnikRuBot - это бот, который будет присылать вам уведомления на смартфон.
 За 10 минут до конца урока он будет предупреждать вас о приближении конца урока.
